@@ -1,5 +1,3 @@
-# Gerar o conteúdo do README.md como arquivo
-readme_content = """
 # 📊 Stock Market Analysis with Python
 
 This project analyzes stock price variations using financial and company data from a multi-sheet Excel file. The analysis includes calculating daily returns, aggregating results by company segment, categorizing companies by age, and visualizing performance trends.
