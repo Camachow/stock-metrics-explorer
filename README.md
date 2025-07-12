@@ -64,9 +64,3 @@ Made with 💻 by Rafael Camacho – feel free to connect or contribute!
 ## 📄 License
 
 This project is licensed under the MIT License.
-"""
-
-# Salvar o conteúdo em um arquivo README.md
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w", encoding="utf-8") as file:
-    file.write(readme_content)
