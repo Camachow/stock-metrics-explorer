@@ -49,7 +49,7 @@ The data is loaded from an Excel file containing four sheets:
 ## 📚 File Structure
 ├── ImersãoPython.ipynb # Main notebook with the full analysis
 ├── Imersão Python - Tabela de ações.xlsx # Required dataset (not included in repo)
-└── README.md # Project documentation
+└── README.md
 
 ## 🧠 Possible Extensions
 
@@ -59,7 +59,7 @@ The data is loaded from an Excel file containing four sheets:
 
 ## 👨‍💻 Author
 
-Made with 💻 by [Your Name] – feel free to connect or contribute!
+Made with 💻 by Rafael Camacho – feel free to connect or contribute!
 
 ## 📄 License
 
